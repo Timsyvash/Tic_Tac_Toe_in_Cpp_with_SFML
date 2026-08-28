@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tic_Tac_Toe_in_Cpp_with_SFML/Tic_Tac_Toe_in_Cpp_with_SFML.vcxproj" Id="767d9b8d-165b-4b6f-8ea3-d77075b3632a" />
+</Solution>

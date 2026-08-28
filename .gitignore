@@ -1,0 +1,23 @@
+# Visual Studio / MSBuild
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+[Oo]bj/
+[Bb]in/
+.vs/
+x64/
+Debug/
+Release/
+
+# CLion / CMake
+cmake-build-*/
+
+# Згенеровані виконувані файли
+*.exe
+*.dll
+*.obj
+
+# Локальні ресурси (якщо хочете виключити важкі медіафайли, хоча для репозиторію з грою їх краще залишати)
+# Sounds/*.wav
+# Font/*.ttf
